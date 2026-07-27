@@ -1,0 +1,20 @@
+data/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+GlobalWeatherRepository.csv
+Global Weather Repository.csv
+*.zip
+.env
+.env.*
+kaggle.json
+*.pkl
+*.pickle
+*.joblib
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.nbconvert.ipynb

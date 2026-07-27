@@ -1,0 +1,15 @@
+jupyterlab
+notebook
+ipykernel
+nbformat
+nbconvert
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+kaleido
+scikit-learn
+statsmodels
+country-converter
